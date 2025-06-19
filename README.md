@@ -1,0 +1,1 @@
+"# CRUD-InertiaReact-TailwindCSS" 
